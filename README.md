@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 [Live Demo](https://vibhashdwivedi.github.io/robofriends/)
 
-##Screenshots
+## Screenshots
 ![](https://github.com/VibhashDwivedi/robofriends/blob/main/Screenshots/image-1.png?raw=true)
 
 One can also search for robots by their name
